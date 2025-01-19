@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745A9DD3-E7A6-47BD-BF12-87E3E050B70E}|ClientB\\ClientB.vcxproj|D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{745A9DD3-E7A6-47BD-BF12-87E3E050B70E}|ClientB\\ClientB.vcxproj|solutionrelative:ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAB5B72-F0C5-4673-9ECB-762F65C63165}|ServerB\\ServerB.vcxproj|D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ServerB\\ServerB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BAB5B72-F0C5-4673-9ECB-762F65C63165}|ServerB\\ServerB.vcxproj|solutionrelative:ServerB\\ServerB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerB.cpp",
+              "DocumentMoniker": "D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ServerB\\ServerB.cpp",
+              "RelativeDocumentMoniker": "ServerB\\ServerB.cpp",
+              "ToolTip": "D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ServerB\\ServerB.cpp",
+              "RelativeToolTip": "ServerB\\ServerB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T07:09:54.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientB.cpp",
+              "DocumentMoniker": "D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ClientB\\ClientB.cpp",
+              "RelativeDocumentMoniker": "ClientB\\ClientB.cpp",
+              "ToolTip": "D:\\Univer\\ProgrammingNetworkApp\\laba_5\\laba_5\\ClientB\\ClientB.cpp",
+              "RelativeToolTip": "ClientB\\ClientB.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T07:08:27.456Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

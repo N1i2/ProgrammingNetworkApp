@@ -1,0 +1,4 @@
+﻿  ClientB.cpp
+D:\Univer\ProgrammingNetworkApp\laba_5\laba_5\ClientB\ClientB.cpp(13,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Univer\ProgrammingNetworkApp\laba_5\laba_5\ClientB\ClientB.cpp(63,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientB.vcxproj -> D:\Univer\ProgrammingNetworkApp\laba_5\laba_5\x64\Debug\ClientB.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD76329-1AA8-47DB-8F87-D4DD3C254D6A}|ClientMS\\ClientMS.vcxproj|D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ClientMS\\ClientMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD76329-1AA8-47DB-8F87-D4DD3C254D6A}|ClientMS\\ClientMS.vcxproj|solutionrelative:ClientMS\\ClientMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44920AA-D8BE-47D9-B4C1-4B469E571B0A}|ServerMS\\ServerMS.vcxproj|D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ServerMS\\ServerMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C44920AA-D8BE-47D9-B4C1-4B469E571B0A}|ServerMS\\ServerMS.vcxproj|solutionrelative:ServerMS\\ServerMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerMS.cpp",
+              "DocumentMoniker": "D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ServerMS\\ServerMS.cpp",
+              "RelativeDocumentMoniker": "ServerMS\\ServerMS.cpp",
+              "ToolTip": "D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ServerMS\\ServerMS.cpp",
+              "RelativeToolTip": "ServerMS\\ServerMS.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T15:20:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientMS.cpp",
+              "DocumentMoniker": "D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ClientMS\\ClientMS.cpp",
+              "RelativeDocumentMoniker": "ClientMS\\ClientMS.cpp",
+              "ToolTip": "D:\\Univer\\ProgrammingNetworkApp\\laba_7\\laba_7\\ClientMS\\ClientMS.cpp",
+              "RelativeToolTip": "ClientMS\\ClientMS.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T14:59:21.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

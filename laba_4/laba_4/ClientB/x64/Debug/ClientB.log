@@ -1,0 +1,7 @@
+﻿  ClientB.cpp
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ClientB\ClientB.cpp(1,9): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro redefinition
+      D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ClientB\ClientB.cpp(1,9):
+      '_WINSOCK_DEPRECATED_NO_WARNINGS' previously declared on the command line
+  
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ClientB\ClientB.cpp(61,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientB.vcxproj -> D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\x64\Debug\ClientB.exe

@@ -1,0 +1,6 @@
+﻿  ServerB2.cpp
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ServerB2\ServerB2.cpp(51,35): warning C4244: 'argument': conversion from 'SOCKET' to 'short', possible loss of data
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ServerB2\ServerB2.cpp(59,33): warning C4244: 'argument': conversion from 'SOCKET' to 'short', possible loss of data
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ServerB2\ServerB2.cpp(107,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\ServerB2\ServerB2.cpp(135,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerB2.vcxproj -> D:\Univer\ProgrammingNetworkApp\laba_4(-)\laba_4\x64\Debug\ServerB2.exe

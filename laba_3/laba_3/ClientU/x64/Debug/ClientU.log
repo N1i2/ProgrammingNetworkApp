@@ -1,0 +1,4 @@
+﻿  ClientU.cpp
+D:\Univer\ProgrammingNetworkApp\laba_3(-)\laba_3\ClientU\ClientU.cpp(47,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Univer\ProgrammingNetworkApp\laba_3(-)\laba_3\ClientU\ClientU.cpp(56,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientU.vcxproj -> D:\Univer\ProgrammingNetworkApp\laba_3(-)\laba_3\x64\Debug\ClientU.exe
